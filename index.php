@@ -1,3 +1,5 @@
 <?php
-echo "Proyecto FACTUFAST";
+include("config/conexion.php");
+
+echo "Sistema FACTUFAST conectado a la base de datos";
 ?>
